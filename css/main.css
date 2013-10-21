@@ -138,3 +138,8 @@ table, th, td
 th{
 	color: #0101DF;
 }
+
+.bilder{
+	height: 150px;
+	width: 125px;
+}
